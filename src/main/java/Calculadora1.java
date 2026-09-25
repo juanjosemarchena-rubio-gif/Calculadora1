@@ -14,7 +14,7 @@ public class Calculadora {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
+System.out.print("Bienvenido");
         System.out.print("Introduce el primer número: ");
         double num1 = scanner.nextDouble();
 
